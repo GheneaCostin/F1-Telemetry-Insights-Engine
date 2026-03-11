@@ -1,0 +1,20 @@
+# Node dependencies
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+f1_cache/
+
+# .NET
+bin/
+obj/
+appsettings.Development.json
+
+# Docker/IDE
+.DS_Store
+.vscode/
+.idea/
