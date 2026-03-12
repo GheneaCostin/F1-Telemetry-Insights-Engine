@@ -1,5 +1,0 @@
-fastf1
-fastapi
-uvicorn
-pandas
-requests
